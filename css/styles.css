@@ -10,7 +10,8 @@ img {
   max-width: 100%; }
 
 body {
-  font-family: Roboto, Helvetica, Arial, sans-serif; }
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  min-height: initial; }
 
 button {
   font-family: Roboto, Helvetica, Arial, sans-serif;
@@ -34,7 +35,7 @@ button {
   user-select: none; }
 
 #wrapper {
-  position: fixed;
+  position: absolute;
   top: 0;
   right: 0;
   width: 100%;
