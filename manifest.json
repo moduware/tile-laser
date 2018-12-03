@@ -3,9 +3,9 @@
   "name": "Laser Pointer",
   "description": "Nexpaq Laser Pointer tile module interface",
 
-  "version": "1.0.2",
-  "changes": "Smaller package size.",
-  "app_version": "1.0.3",
+  "version": "1.0.3",
+  "changes": "Fix iPhone X top notch UI bug",
+  "minumumAppVersion": "1.1.8",
   "modules": [
     "nexpaq.module.laser",
     "nexpaq.module.range"
@@ -13,5 +13,5 @@
   
   "title": "Laser",
   "color": "#EE3696",
-  "text_color": "white"
+  "textColor": "white"
 }
